@@ -44,7 +44,7 @@ constructive criticism.
 
 To incoropate updates to the assignment, a new pull request (PR) will be
 generated when I make changes.
-You can find the tab [here](/pulls).
+You can find the tab [here](../../pulls).
 You will see a new PR called "GitHub Classroom: Sync Assignment".
 On that page you can merge the pull request to get the update instructions.
 This may invovle rebasing or merging your contributions, reach out
