@@ -64,8 +64,8 @@ Answer the following questions:
 
 ## Deliverables
 
-* Four implementations (single or seprate codes)
-* Graph of results (can upload raw data, generations script)
+* Three ~~Four~~ implementations (single or seprate codes)
+* Graph of results (can upload raw data, generations script, in addition)
 * Runtime analysis (txt, pdf, etc)
 * Reflection
 
