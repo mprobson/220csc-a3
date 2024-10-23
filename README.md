@@ -33,9 +33,12 @@ Genrate graph:
 
 After the assignment due date, you will be randomly assigned to review another
 student's code (and conversely someone will review yours).
-Pull request.
-Look at code readability, results, etc.
-Constructive criticism.
+This will be in the form of a
+pull request.
+You will
+look at code readability, results, etc.
+This feedback should be in the form of
+constructive criticism.
 
 ## Updating the Assignment
 
