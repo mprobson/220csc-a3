@@ -56,6 +56,12 @@ In addition to the code, data, and graphs you should complete a short
 written reflection on this process.
 Answer the following questions:
 
+- Did your graph match your runtime analysis expectations?
+- What went well with this assignment?
+- What was difficult?
+- How would you approach differently?
+- Anything else you want me to know?
+
 ## Deliverables
 
 * Four implementations (single or seprate codes)
