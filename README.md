@@ -23,11 +23,11 @@ This can also include the actual runtime per-processor (P).
 
 After you've implented one (or all)
 you will need to insert timers.
-Run series of scaling data experiments
+Run a series of scaling data experiments on increasing array/data sizes.
 
-Genrate graph
-- raw data
-- use seaborn or another tool (Excel, Google Sheets, Matlab, etc)
+Genrate graph:
+- Collect raw timing data
+- Use seaborn or another tool (Excel, Google Sheets, Matlab, etc) to plot
 
 ## Peer Feedback
 
